@@ -22,7 +22,7 @@ def main():
         if esLaboral == -1:
             print(calculoTiemporespuesta)
             break
-        time.sleep(1*60) #reppite cada minito
+        time.sleep(1*60) #repite cada minuto
         #time.sleep(1 * 3600) # repite cada hora
 
 
